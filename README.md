@@ -1,1 +1,1 @@
-# cassandra-odm
+# cassandra-odm-nodejs
